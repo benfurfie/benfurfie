@@ -4,6 +4,6 @@ My name is Ben. I'm an Australian marketing-focused web developer living in the 
 
 You can find me around the web 🌍:
 
-* Learning in public on YouTube or benfurfie.co.uk
+* Learning in public on [YouTube](https://www.youtube.com/channel/UCG8OoI2DJdijPayVGe-lQDw) or [benfurfie.co.uk](https://benfurfie.co.uk)
 * On [Twitter](https://twitter.com/frontendben)
 * On [LinkedIn](https://linkedin.com/in/benfurfie)
