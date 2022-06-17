@@ -7,3 +7,5 @@ You can find me around the web 🌍:
 * Learning in public on [YouTube](https://www.youtube.com/channel/UCG8OoI2DJdijPayVGe-lQDw) or [benfurfie.co.uk](https://benfurfie.co.uk)
 * On [Twitter](https://twitter.com/frontendben)
 * On [LinkedIn](https://linkedin.com/in/benfurfie)
+
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benfurfie)](https://github.com/benfurfie/github-readme-stats)
