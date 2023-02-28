@@ -1,6 +1,6 @@
 ### G'day 👋
 
-My name is Ben. I'm an Australian web developer living in the UK, currently working as a senior full stack Laravel engineer. I specialise in working with [Statamic](https://statamic.com/), [Laravel](https://laravel.com/), [TailwindCSS](https://tailwindcss.com/), [AlpineJS](https://github.com/alpinejs/alpine), and Vue. I'm passionate about building websites and applications that make it easier for marketing teams to do their jobs more efficiently.
+My name is Ben. I'm an Australian web developer living in the UK, currently working as a development and data lead. I specialise in working with [Statamic](https://statamic.com/), [Laravel](https://laravel.com/), [TailwindCSS](https://tailwindcss.com/), [AlpineJS](https://github.com/alpinejs/alpine), and Vue. I'm passionate about building websites and applications that make it easier for marketing teams to do their jobs more efficiently.
 
 You can find me around the web 🌍:
 
